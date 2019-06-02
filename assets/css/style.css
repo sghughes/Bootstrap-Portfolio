@@ -224,20 +224,19 @@ p, label {
     border: solid 1px #ddd;
     padding: 10px;
     height: 770px;
-    
-    
+        
 }
 
 #name, #email, #message {
     width: 100%;
 }
 
-.submit {
+.btn-secondary {
     background-color:  #A7bea9;
     border: solid  #A7bea9;;
     color: #fff;
     margin-bottom: 20px;
-    font-family: 'Lora', serif;
+    /*font-family: 'Lora', serif;*/
 }
 .submit:hover {
     background-color:  #A7bea9;
@@ -246,4 +245,4 @@ p, label {
     margin-bottom: 20px;
     line-height: 1.5;
    
-}*/
+}
