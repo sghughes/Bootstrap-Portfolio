@@ -28,6 +28,10 @@ body {
     background-color: #A7bea9;
 }
 
+/* .navbar {
+    width: 100%;
+} */
+
 h1 {
     /*background-color:#4aaaa5;*/
     background-color: #A7bea9;
@@ -38,10 +42,8 @@ h1 {
     vertical-align: text-bottom;
     /*font-family: 'Georgia', Times, 'Times New Roman', serif;
     font-family: 'Lora', serif;
-    
     position: relative;
     left: 160px;
-    
     /*width: 300px;*/
     /*width: 25%; 
     overflow: hidden;
@@ -71,9 +73,8 @@ header {
 footer {
     background-color: #666;
     /*border-top: 8px solid #4aaaa5;*/
-    border-top: 8px solid #a7bea9;
-    /*bottom: 0;
-    box-sizing: border-box;*/
+    border-top: 8px solid #a7bea9;       
+    /*box-sizing: border-box;*/
     color: #777;
     /*display: block;
     height: 40px;
@@ -231,7 +232,7 @@ p, label {
     width: 100%;
 }
 
-.btn-secondary {
+.btn {
     background-color:  #A7bea9;
     border: solid  #A7bea9;;
     color: #fff;
